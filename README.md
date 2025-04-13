@@ -7,13 +7,10 @@ By the end of this exercise, you should be able to:
 
 Recognize and explain the purpose of common array methods, including:
 
-    - filter()
-
-    - map()
-
-    - sort()
-
-    - reduce()
+ - filter(): checks every element in an array to see if it meets certain criteria and returns a new array with the elements that return truthy for the criteria.
+ - map(): executes the same code on every element in an array and returns a new array with the updated elements.
+ - sort(): used to sort the elements of an array in place.
+ - reduce(): iterates through an array and takes the values of the elements and returns a single value.
 
 These powerful methods will help you write cleaner, more efficient, and more expressive JavaScript.
 
